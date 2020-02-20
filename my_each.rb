@@ -1,4 +1,5 @@
 require 'pry'
-def my_each # put argument(s) here
+def my_each(file) # put argument(s) here
+while file 
   # code here
 end
